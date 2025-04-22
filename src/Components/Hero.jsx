@@ -15,7 +15,7 @@ const Hero = () => {
   }, []);
 
   const handleDownloadResume = () => {
-    const resumeUrl = "https://drive.google.com/file/d/1DEQRam1vrUmJFLGz54egbr2hbeuZaYq3/view?usp=drive_link";
+    const resumeUrl = "https://drive.google.com/file/d/1SURPk1bK0OGLwYC_5DVTIeRAMsLS-DJj/view?usp=sharing";
     const link = document.createElement("a");
     link.href = resumeUrl;
     link.download = "Ram_Pandiyar_Resume.pdf";
