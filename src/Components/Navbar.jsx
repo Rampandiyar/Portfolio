@@ -97,7 +97,7 @@ const Navbar = () => {
             <a href="https://github.com/Rampandiyar" target="_blank" rel="noopener noreferrer">
               <FaGithub className="text-gray-400 opacity-70 hover:text-white hover:opacity-100 transition-all duration-300 text-2xl" />
             </a>
-            <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.instagram.com/itsmeram_rp?igsh=MWhjYmNvNXBkbjRlcQ%3D%3D&utm_source=qr" target="_blank" rel="noopener noreferrer">
               <FaInstagram className="text-gray-400 opacity-70 hover:text-pink-600 hover:opacity-100 transition-all duration-300 text-2xl" />
             </a>
           </div>
